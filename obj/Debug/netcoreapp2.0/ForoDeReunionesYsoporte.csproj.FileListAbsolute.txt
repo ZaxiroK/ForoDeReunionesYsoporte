@@ -1,0 +1,10 @@
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\bin\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.deps.json
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\bin\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.runtimeconfig.json
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\bin\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.runtimeconfig.dev.json
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\bin\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.dll
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\bin\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.pdb
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\obj\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.csproj.CoreCompileInputs.cache
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\obj\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.AssemblyInfoInputs.cache
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\obj\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.AssemblyInfo.cs
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\obj\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.dll
+C:\PrograWeb2\PrimerProyectoASP.net\ForoDeReunionesYsoporte\obj\Debug\netcoreapp2.0\ForoDeReunionesYsoporte.pdb
