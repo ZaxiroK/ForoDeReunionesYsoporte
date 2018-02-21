@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using ForoDeReunionesYsoporte.Models;
 
 namespace ForoDeReunionesYsoporte
 {
@@ -21,8 +23,13 @@ namespace ForoDeReunionesYsoporte
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
-        }
+    // Add framework services.
+        services.AddMvc();
+
+        services.AddDbContext<MvcUserContext>(options =>
+            options.UseSqlite("Data Source=ForoDeReunionesYsoporte.db"));
+
+        }   
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
