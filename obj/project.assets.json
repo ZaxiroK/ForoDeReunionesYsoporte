@@ -13121,11 +13121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\ForoDeReunionesYsoporte.csproj",
+      "projectUniqueName": "C:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\ForoDeReunionesYsoporte.csproj",
       "projectName": "ForoDeReunionesYsoporte",
-      "projectPath": "c:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\ForoDeReunionesYsoporte.csproj",
+      "projectPath": "C:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\ForoDeReunionesYsoporte.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\obj\\",
+      "outputPath": "C:\\PrograWeb2\\PrimerProyectoASP.net\\ForoDeReunionesYsoporte\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,7 +6,7 @@ namespace ForoDeReunionesYsoporte.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public decimal Password { get; set; }
-        public decimal Account { get; set; }
+        public string Password { get; set; }
+        public string Account { get; set; }
     }
 }
