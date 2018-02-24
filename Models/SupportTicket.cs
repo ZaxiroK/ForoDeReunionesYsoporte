@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 namespace ForoDeReunionesYsoporte.Models
 {
@@ -12,4 +12,4 @@ namespace ForoDeReunionesYsoporte.Models
         public string status { get; set; }
     
     }
-}
+}*/
