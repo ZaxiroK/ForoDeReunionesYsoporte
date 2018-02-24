@@ -10,5 +10,8 @@ namespace ForoDeReunionesYsoporte.Models
         }
 
         public DbSet<ForoDeReunionesYsoporte.Models.User> User { get; set; }
+        public DbSet<ForoDeReunionesYsoporte.Models.Client> Client { get; set; }
+        
+
     }
 }
