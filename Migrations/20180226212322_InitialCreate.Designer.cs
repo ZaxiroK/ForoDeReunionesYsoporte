@@ -10,9 +10,10 @@ using System;
 namespace ForoDeReunionesYsoporte.Migrations
 {
     [DbContext(typeof(MvcUserContext))]
-    partial class MvcUserContextModelSnapshot : ModelSnapshot
+    [Migration("20180226212322_InitialCreate")]
+    partial class InitialCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
