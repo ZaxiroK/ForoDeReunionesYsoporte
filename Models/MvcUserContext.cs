@@ -11,6 +11,9 @@ namespace ForoDeReunionesYsoporte.Models
 
         public DbSet<ForoDeReunionesYsoporte.Models.User> User { get; set; }
         public DbSet<ForoDeReunionesYsoporte.Models.Client> Client { get; set; }
+        //public DbSet<ForoDeReunionesYsoporte.Models.Client> Contact { get; set; }
+        //public DbSet<ForoDeReunionesYsoporte.Models.Client> Meeting { get; set; }
+        //public DbSet<ForoDeReunionesYsoporte.Models.Client> SupportTicket { get; set; }
         
 
     }
